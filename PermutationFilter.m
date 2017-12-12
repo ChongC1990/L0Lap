@@ -1,4 +1,4 @@
-function hct = ct2ct(A,ct,thes,repeat,p0)
+function hct = PermutationFilter(A,ct,thes,repeat,p0)
 
 % Filter the false community by permutation test
 
